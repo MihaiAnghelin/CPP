@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487439294 source:d:\programe\clasa a 9-a\furnici\main.cpp
+	<stdio.h>
+	<fstream>
+	<math.h>
+

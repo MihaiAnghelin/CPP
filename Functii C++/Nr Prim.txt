@@ -1,0 +1,14 @@
+int prim(int x)
+{
+    bool ok=true;
+    int d=2;
+    while(d<=sqrt(x)&&ok)
+    {
+        if(x%d==0)
+        {
+            ok=false;break;
+        }
+        d++;
+    }
+    return ok;
+}

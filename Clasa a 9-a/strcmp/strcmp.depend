@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495895555 source:d:\programe\clasa a 9-a\strcmp\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

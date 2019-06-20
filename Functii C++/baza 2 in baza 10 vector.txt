@@ -1,0 +1,13 @@
+int a[35];
+int total=-1;
+for(int i=0;numar>0;i++)
+{
+    if((numar%2) == 0)
+        a[i]=0;
+    else
+        a[i]=1;
+    total++;
+        numar/=2;
+}
+cout<<"Number binary = ";
+for(int w=total;w>=0;w--) {cout<<a[w];}

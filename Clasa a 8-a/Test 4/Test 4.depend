@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463847976 source:d:\programe\test 4\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+

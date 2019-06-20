@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1489234647 source:d:\programe\clasa a 9-a\snake\main.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+

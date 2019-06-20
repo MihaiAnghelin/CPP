@@ -1,0 +1,2 @@
+system("PAUSE"); //Pausing the screen until user hits a key
+system("cls"); //clear screen

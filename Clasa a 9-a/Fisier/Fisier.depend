@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475254729 source:d:\programe\clasa a 9-a\fisier\main.cpp
+	<stdio.h>
+	<fstream>
+

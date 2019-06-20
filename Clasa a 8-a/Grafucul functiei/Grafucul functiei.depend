@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456592947 source:d:\programe\grafucul functiei\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+

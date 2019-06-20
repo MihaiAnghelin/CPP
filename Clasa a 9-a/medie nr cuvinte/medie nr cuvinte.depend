@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495298763 source:d:\programe\clasa a 9-a\medie nr cuvinte\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

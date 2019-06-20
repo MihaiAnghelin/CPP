@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464442260 source:d:\programe\copiaza\main.cpp
+	<stdio.h>
+	<fstream>
+

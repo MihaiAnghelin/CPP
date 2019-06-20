@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Perimeter of squares in a rectangle", "Perimeter of squares in a rectangle\Perimeter of squares in a rectangle.vcxproj", "{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Debug|x64.ActiveCfg = Debug|x64
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Debug|x64.Build.0 = Debug|x64
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Debug|x86.Build.0 = Debug|Win32
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Release|x64.ActiveCfg = Release|x64
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Release|x64.Build.0 = Release|x64
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Release|x86.ActiveCfg = Release|Win32
+		{7C437C87-A4B7-44F7-A2F0-54C30FEA7DBE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {146D00D5-217A-433E-8714-2E5C2C8A514B}
+	EndGlobalSection
+EndGlobal

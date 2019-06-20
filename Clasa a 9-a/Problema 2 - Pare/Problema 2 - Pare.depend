@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490450855 source:d:\programe\clasa a 9-a\problema 2 - pare\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

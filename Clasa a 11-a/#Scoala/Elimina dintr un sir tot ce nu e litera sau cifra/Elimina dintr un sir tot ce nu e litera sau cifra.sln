@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elimina dintr un sir tot ce nu e litera sau cifra", "Elimina dintr un sir tot ce nu e litera sau cifra\Elimina dintr un sir tot ce nu e litera sau cifra.vcxproj", "{896E66D3-4801-476B-B6B4-DF4843897614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Debug|x64.ActiveCfg = Debug|x64
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Debug|x64.Build.0 = Debug|x64
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Debug|x86.ActiveCfg = Debug|Win32
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Debug|x86.Build.0 = Debug|Win32
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Release|x64.ActiveCfg = Release|x64
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Release|x64.Build.0 = Release|x64
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Release|x86.ActiveCfg = Release|Win32
+		{896E66D3-4801-476B-B6B4-DF4843897614}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5067B8-CD40-4039-A8D1-8351516FE711}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481388424 source:d:\programe\clasa a 9-a\decriptare 2\main.cpp
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<fstream>
+
