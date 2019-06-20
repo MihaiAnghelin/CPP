@@ -1,2 +1,2 @@
-# Exercises-and-examples
-Personal exercises and examples in different languages
+# Exercises and examples in C++
+Personal exercises and examples in C++
